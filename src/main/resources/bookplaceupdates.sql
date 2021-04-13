@@ -1,0 +1,2 @@
+INSERT INTO PERSONS(PHONE) VALUES('79118757569');
+update places set REFPERSONS = 1 where  id =1;
